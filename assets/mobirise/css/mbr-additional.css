@@ -1311,7 +1311,11 @@ a {
 .cid-tVjRBc8za2 {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-color: #98bfff;
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+}
+.cid-tVjRBc8za2 .mbr-overlay {
+  background: #fafafa;
+  opacity: 0;
 }
 .cid-tVjRBc8za2 img,
 .cid-tVjRBc8za2 .item-img {
@@ -1375,7 +1379,7 @@ a {
 }
 .cid-tMlEXTHLbS .mbr-overlay {
   background: #ffffff;
-  opacity: 0.2;
+  opacity: 0.3;
 }
 .cid-tMlEXTHLbS img,
 .cid-tMlEXTHLbS .item-img {
